@@ -22,6 +22,8 @@ Get in Touch:
 
 Feel free to reach out to me via email at yashmeet1807@gmail.com. Whether it's a question, a collaboration proposal, or just a friendly hello, I'm always excited to connect with like-minded individuals.
 
+Here's my linkedIn profile : https://in.linkedin.com/in/yashmeet-baid-2b269127a
+
 Let's write code, build amazing things, and make technology more awesome together! 🚀✨
 
   
