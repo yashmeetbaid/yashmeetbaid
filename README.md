@@ -135,6 +135,34 @@
   ## 🎵 My Spotify
   
   [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=lvhpazi5p7iq7jtzlw9ukebv7&count=3)](https://open.spotify.com/user/lvhpazi5p7iq7jtzlw9ukebv7)
+    <table>
+    <tr>
+      <td width="50%">
+        <a href="https://open.spotify.com/user/lvhpazi5p7iq7jtzlw9ukebv7">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=lvhpazi5p7iq7jtzlw9ukebv7&count=3" width="100%" alt="Recently Played">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://open.spotify.com/user/lvhpazi5p7iq7jtzlw9ukebv7">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=lvhpazi5p7iq7jtzlw9ukebv7&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="100%" alt="Currently Playing">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Recently Played</b></td>
+      <td align="center"><b>Currently Playing</b></td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  
+</div>
+
+<br>
+
+<div align="center">
+  
   
 </div>
 
