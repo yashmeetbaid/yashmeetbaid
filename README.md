@@ -15,7 +15,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yashmeet-baid-2b269127a)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmeet1807@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashmeetbaid)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourspotifyusername)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/Yashmeet)
 
 </div>
 
@@ -110,7 +110,7 @@
   
   ## 🎵 My Spotify
   
-  [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=3)](https://open.spotify.com/user/yourspotifyusername)
+  [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=3)](https://open.spotify.com/user/Yashmeet)
   
 </div>
 
