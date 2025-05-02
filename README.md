@@ -86,15 +86,15 @@ Let's write code, build amazing things, and make technology more awesome togethe
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmeetbaid&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmeetbaid&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmeetbaid&theme=radical" alt="GitHub Streak" />
 </div>
 
 <!-- You can create a custom language statistics chart using GitHub Actions -->
